@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,27 +18,41 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Maître de conférences"
+  company = "Université de Paris"
+  company_url = "https://www.math.univ-paris-diderot.fr/"
+  location = "Paris"
+  date_start = "2013-09-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Affiliated with the [Institut de Mathématiques de Jussieu-Paris Rive Gauche](https://www.imj-prg.fr/)"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Post Doc"
+  company = "ENS-Lyon"
+  company_url = "http://www.umpa.ens-lyon.fr/"
+  location = "Lyon"
+  date_start = "2012-10-01"
+  date_end = "2013-08-31"
+  description = """Under the supervision of [Vincent Pilloni](http://perso.ens-lyon.fr/vincent.pilloni/) """
+
+[[experience]]
+  title = "Post Doc"
+  company = "Max Planck Institute for Mathematics"
+  company_url = "https://www.mpim-bonn.mpg.de/"
+  location = "Bonn"
+  date_start = "2012-04-01"
+  date_end = "2012-09-30"
+
+[[experience]]
+  title = "PhD Student"
+  company = "Università degli Studi di Milano"
+  company_url = "http://www.matematica.unimi.it/ecm/home"
+  location = "Milan"
+  date_start = "2009-01-01"
+  date_end = "2012-03-12"
+  description = """
+  * Advisor: [Fabrizio Andreatta](http://users.mat.unimi.it/users/andreat/)
+  * Thesis: $p$-adic families of modular forms over Shimura curves
+  """
 
 +++
