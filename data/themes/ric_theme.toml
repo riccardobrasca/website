@@ -5,9 +5,7 @@ name = "ric_theme"
 light = true
 
 # Primary
-primary = "#328cc1"
-primary_light = "#328cc1"
-primary_dark = "#DA2536"
+primary = "#3ca4e1"
 
 # Menu
 menu_primary = "#494949"
