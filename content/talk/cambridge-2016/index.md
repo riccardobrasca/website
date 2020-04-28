@@ -4,7 +4,7 @@
 title: "Hida theory over some Shimura varieties without ordinary locus"
 event: "*Number theory seminar*"
 event_url:
-location: "University of Cambridge - UK"
+location: "Cambridge University - UK"
 address:
   street:
   city:
