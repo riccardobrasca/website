@@ -20,12 +20,13 @@ organizations:
   url: "https://www.math.univ-paris-diderot.fr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in number theory and arithmetic geometry. In particular I am interested in the $p$-adic aspects of the Langlands program and in the theory of $p$-adic variations of automorphic forms.
+bio: My research interests are in number theory and arithmetic geometry. In particular I am interested in the $p$-adic aspects of the Langlands program and in the theory of $p$-adic variations of automorphic forms. I am also interested in formal proofs, especially Lean.
 
 interests:
 - Langlands program
 - Eigenvarieties
 - $p$-adic families of automorphic forms
+- Formal proofs
 
 education:
   courses:
@@ -75,7 +76,7 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am a _Maître de conférences_ (= tenured associate professor) at the [Université de Paris](https://u-paris.fr/) in the [Departement of Mathematics](https://www.math.univ-paris-diderot.fr/), working in the [automorphic forms group](http://www.imj-prg.fr/fa/) at the [Institut de Mathématiques de Jussieu-Paris Rive Gauche](http://www.imj-prg.fr/). My main research interests are in number theory and arithmetic geometry. I am also member of the ANR project [CoLoSS](https://anr.fr/Projet-ANR-19-CE40-0015).
+Hi! I am a _Maître de conférences_ (= tenured associate professor) at the [Université de Paris](https://u-paris.fr/) in the [Departement of Mathematics](https://www.math.univ-paris-diderot.fr/), working in the [automorphic forms group](http://www.imj-prg.fr/fa/) at the [Institut de Mathématiques de Jussieu-Paris Rive Gauche](http://www.imj-prg.fr/). My main research interests are in number theory and arithmetic geometry. I am also member of the ANR project [CoLoSS](https://anr.fr/Projet-ANR-19-CE40-0015). Recently, I have become interested in formal proofs and proof assistants, especially [Lean](https://leanprover.github.io/) and its [Mathematical Library](https://leanprover-community.github.io/).
 
 Before that I have been a post-doc at the [ENS-Lyon](http://www.umpa.ens-lyon.fr/) under the supervision of [Vincent Pilloni](http://perso.ens-lyon.fr/vincent.pilloni/) and at the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de/).
 

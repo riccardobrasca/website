@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Teaching"
-subtitle = "2020 2nd semester"
+subtitle = "2021 2nd semester"
 
 date_format = "Jan 2006"
 
@@ -15,8 +15,18 @@ date_format = "Jan 2006"
   title = "Mathématiques 2 - L1 Informathique"
   url = "https://moodlesupd.script.univ-paris-diderot.fr/course/view.php?id=6586"
   certificate_url = ""
-  date_start = "2020-01-01"
-  date_end = "2020-05-30"
+  date_start = "2021-01-01"
+  date_end = "2021-05-30"
   description = ""
+
+[[item]]
+  organization = "Université de Paris"
+  title = "MMAL2 - L1 Mathématiques"
+  url = "https://moodle.u-paris.fr/enrol/index.php?id=2407"
+  certificate_url = ""
+  date_start = "2021-01-01"
+  date_end = "2021-05-30"
+  description = ""
+
 
 +++

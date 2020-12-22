@@ -19,13 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Centre de recherches mathématiques"
-  organization_url = "http://www.crm.umontreal.ca/en/"
-  title = "Special semester on Cohomology in Arithmetic"
-  url = "http://www.crm.umontreal.ca/2020/Nombres2020/index_e.php"
+  organization = ""
+  organization_url = ""
+  title = "Lean Together 2021"
+  url = "https://leanprover-community.github.io/lt2021/"
   certificate_url = ""
-  date_start = "2020-09-01"
-  date_end = "2020-12-20"
-  description = ""
+  date_start = "2021-01-04"
+  date_end = "2021-01-07"
+  description = "A meeting for Lean users and other formalizers"
 
 +++
