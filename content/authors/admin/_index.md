@@ -76,7 +76,7 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am a _Maître de conférences_ (= tenured associate professor) at the [Université de Paris](https://u-paris.fr/) in the [Departement of Mathematics](https://www.math.univ-paris-diderot.fr/), working in the [automorphic forms group](http://www.imj-prg.fr/fa/) at the [Institut de Mathématiques de Jussieu-Paris Rive Gauche](http://www.imj-prg.fr/). My main research interests are in number theory and arithmetic geometry. I am also member of the ANR project [CoLoSS](https://anr.fr/Projet-ANR-19-CE40-0015).
+Hi! I am a _Maître de conférences_ (= tenured associate professor) in the [Departement of Mathematics](https://www.math.univ-paris-diderot.fr/) at [Université de Paris](https://u-paris.fr/), working in the [automorphic forms group](http://www.imj-prg.fr/fa/) at the [Institut de Mathématiques de Jussieu-Paris Rive Gauche](http://www.imj-prg.fr/). My main research interests are in number theory and arithmetic geometry. I am also member of the ANR project [CoLoSS](https://anr.fr/Projet-ANR-19-CE40-0015).
 
 Recently,  I have developed an interest in formal proofs and proof assistants, especially [Lean](https://leanprover.github.io/) and its [Mathematical Library](https://leanprover-community.github.io/). I actively contribute to the [Liquid Tensor Experiment](https://github.com/leanprover-community/lean-liquid/). If you want to formalize some mathematics, I recommend you try the [Natural Number Game](https://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/).
 
