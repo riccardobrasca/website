@@ -1,6 +1,6 @@
 ---
 title: "Hida theory over some unitary Shimura varieties without ordinary locus"
-date: 2018-01-01
+date: 2021-06-01
 publishDate: 2021-04-24T10:14:26.258790Z
 authors: ["Riccardo Brasca", "[Giovanni Rosso](https://sites.google.com/site/gvnros/)"]
 publication_types: ["2"]
