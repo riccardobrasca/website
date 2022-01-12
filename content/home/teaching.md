@@ -11,21 +11,23 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Université de Paris"
-  organization_url = "http://www.informatique.univ-paris-diderot.fr/wiki/doku.php/enseignement/licences/mathinfo/Accueil"
-  title = "Mathématiques 2 - L1 Informathique"
-  url = "https://moodlesupd.script.univ-paris-diderot.fr/course/view.php?id=6586"
+  organization_url = "https://licence.math.univ-paris-diderot.fr/formations/miashs/"
+  title = "Algèbre Elémentaire 2 - L1 MIASH"
+  url = "https://moodle.u-paris.fr/course/view.php?id=2299"
   certificate_url = ""
-  date_start = "2021-01-01"
-  date_end = "2021-05-30"
+  date_start = "2022-01-01"
+  date_end = "2022-05-30"
   description = ""
 
 [[item]]
   organization = "Université de Paris"
-  title = "MMAL2 - L1 Mathématiques"
-  url = "https://moodle.u-paris.fr/enrol/index.php?id=2407"
+  organization_url = "https://master.math.univ-paris-diderot.fr/annee/m1-mic/"
+  
+  title = "Codes et cryptographie - M1 MIC"
+  url = "https://moodle.u-paris.fr/course/view.php?id=6135"
   certificate_url = ""
-  date_start = "2021-01-01"
-  date_end = "2021-05-30"
+  date_start = "2022-01-01"
+  date_end = "2022-05-30"
   description = ""
 
 

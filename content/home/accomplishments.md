@@ -21,11 +21,11 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Lean Together 2021"
-  url = "https://leanprover-community.github.io/lt2021/"
-  certificate_url = ""
-  date_start = "2021-01-04"
-  date_end = "2021-01-07"
-  description = "A meeting for Lean users and other formalizers"
+  title = "Lean for the Curious Mathematician 2022"
+#  url = "https://leanprover-community.github.io/lt2021/"
+#  certificate_url = ""
+  date_start = "2022-06-01"
+  date_end = "2022-06-01"
+  description = "More details TBA"
 
 +++
