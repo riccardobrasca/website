@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -25,7 +25,7 @@ date_format = "Jan 2006"
 #  url = "https://leanprover-community.github.io/lt2021/"
 #  certificate_url = ""
   date_start = "2022-06-01"
-  date_end = "2022-06-01"
+#  date_end = "2022-06-01"
   description = "More details TBA"
 
 +++

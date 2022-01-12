@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Teaching"
-subtitle = "2021 2nd semester"
+subtitle = "2022 2nd semester"
 
 date_format = "Jan 2006"
 
