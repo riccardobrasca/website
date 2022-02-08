@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "2006"
+date_format = "Jan 2, 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -22,10 +22,16 @@ date_format = "2006"
   organization = ""
   organization_url = ""
   title = "Lean for the Curious Mathematician 2022"
-#  url = "https://leanprover-community.github.io/lt2021/"
-#  certificate_url = ""
-  date_start = "2022-06-01"
-#  date_end = "2022-06-01"
-  description = "More details TBA"
+  url = "https://icerm.brown.edu/topical_workshops/tw-22-lean/"
+  date_start = "2022-07-11"
+  date_end = "2022-07-15"
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "International Conference on Interactive Theorem Proving 2022"
+  url = "https://itpconference.github.io/ITP22/"
+  date_start = "2022-08-07"
+  date_end = "2022-08-10"
 
 +++
