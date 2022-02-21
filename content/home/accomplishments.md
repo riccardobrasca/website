@@ -21,6 +21,15 @@ date_format = "Jan 2, 2006"
 [[item]]
   organization = ""
   organization_url = ""
+  title = "Machine-Checked Mathematics"
+  url = "https://lean-forward.github.io/lorentz-center-meeting/"
+  date_start = "2022-03-02"
+  date_end = "2022-03-04"
+
+
+[[item]]
+  organization = ""
+  organization_url = ""
   title = "Lean for the Curious Mathematician 2022"
   url = "https://icerm.brown.edu/topical_workshops/tw-22-lean/"
   date_start = "2022-07-11"
