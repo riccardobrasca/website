@@ -21,10 +21,10 @@ date_format = "Jan 2, 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Machine-Checked Mathematics"
-  url = "https://lean-forward.github.io/lorentz-center-meeting/"
-  date_start = "2022-03-02"
-  date_end = "2022-03-04"
+  title = "Lean in Lyon"
+  url = "https://www.univ-st-etienne.fr/lean-in-lyon.html"
+  date_start = "2022-05-10"
+  date_end = "2022-05-10"
 
 
 [[item]]
