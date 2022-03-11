@@ -92,7 +92,7 @@ phone = "(+33) 01 57 27 93 02"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Institut de Mathématiques de Jussieu-Paris Rive Gauche. Bâtiment Sophie Germain. Université de Paris. 5 rue Thomas Mann", city = "Paris 13", postcode = "75205", country = "France", country_code = "FR"}
+address = {street = "Institut de Mathématiques de Jussieu-Paris Rive Gauche. Bâtiment Sophie Germain. Université Paris Cité. 5 rue Thomas Mann", city = "Paris 13", postcode = "75205", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

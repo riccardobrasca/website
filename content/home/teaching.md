@@ -10,7 +10,7 @@ subtitle = "2022 2nd semester"
 date_format = "Jan 2006"
 
 [[item]]
-  organization = "Université de Paris"
+  organization = "Université Paris Cité"
   organization_url = "https://licence.math.univ-paris-diderot.fr/formations/miashs/"
   title = "Algèbre Elémentaire 2 - L1 MIASH"
   url = "https://moodle.u-paris.fr/course/view.php?id=2299"
@@ -20,7 +20,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Université de Paris"
+  organization = "Université Paris Cité"
   organization_url = "https://master.math.univ-paris-diderot.fr/annee/m1-mic/"
   
   title = "Codes et cryptographie - M1 MIC"

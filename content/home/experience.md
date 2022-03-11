@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Maître de conférences"
-  company = "Université de Paris"
+  company = "Université Paris Cité"
   company_url = "https://www.math.univ-paris-diderot.fr/"
   location = "Paris"
   date_start = "2013-09-01"
