@@ -21,10 +21,10 @@ date_format = "Jan 2, 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Lean in Lyon"
-  url = "https://www.univ-st-etienne.fr/lean-in-lyon.html"
-  date_start = "2022-05-10"
-  date_end = "2022-05-10"
+  title = "Machine Assisted Proofs"
+  url = "https://www.ipam.ucla.edu/programs/workshops/machine-assisted-proofs/"
+  date_start = "2023-02-13"
+  date_end = "2023-02-17"
 
 
 [[item]]
