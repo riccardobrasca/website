@@ -45,10 +45,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: event/luxembourg-2021/pres.pdf
 
 url_code:
-url_pdf: event/luxembourg-2021/pres.pdf
+url_pdf:
 url_video:
 
 # Markdown Slides (optional).

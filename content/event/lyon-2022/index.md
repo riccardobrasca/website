@@ -45,10 +45,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: files/pres.pdf
 
-url_code:
-url_pdf: files/pres.pdf
+url_code: https://github.com/leanprover-community/flt-regular
+url_pdf:
 url_video: https://www.youtube.com/watch?v=Fd7Xptz5ikY
 
 # Markdown Slides (optional).
