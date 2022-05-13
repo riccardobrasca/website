@@ -48,7 +48,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
+url_pdf: event/luxembourg-2021/pres.pdf
 url_video:
 
 # Markdown Slides (optional).
