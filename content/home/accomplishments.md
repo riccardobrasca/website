@@ -19,21 +19,38 @@ date_format = "Jan 2, 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Banff International Research Station"
+  organization_url = ""
+  title = "Formalization of Cohomology Theories"
+  url = "https://www.birs.ca/events/2023/5-day-workshops/23w5124"
+  date_start = "2023-05-21"
+  date_end = "2023-05-26"
+
+[[item]]
   organization = ""
   organization_url = ""
-  title = "Machine Assisted Proofs"
-  url = "https://www.ipam.ucla.edu/programs/workshops/machine-assisted-proofs/"
-  date_start = "2023-02-13"
-  date_end = "2023-02-17"
+  title = "EuroProofNet Workshop on the development, maintenance, refactoring and search of large libraries of proofs "
+  url = "https://europroofnet.github.io/wg4-meeting1-program/"
+  date_start = "2022-09-23"
+  date_end = "2022-09-24"
 
 
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Lean for the Curious Mathematician 2022"
-  url = "https://icerm.brown.edu/topical_workshops/tw-22-lean/"
-  date_start = "2022-07-11"
-  date_end = "2022-07-15"
+  title = "Conference on Intelligent Computer Mathematics"
+  url = "https://cicm-conference.org/2022/cicm.php"
+  date_start = "2022-09-19"
+  date_end = "2022-09-23"
+
+[[item]]
+  organization = "Hausdorff Center for Mathematics"
+  organization_url = ""
+  title = "Prospects of formal mathematics"
+  url = "https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/description/"
+  date_start = "2024-05-06"
+  date_end = "2024-08-16"
+
 
 [[item]]
   organization = ""
