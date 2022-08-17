@@ -51,13 +51,4 @@ date_format = "Jan 2, 2006"
   date_start = "2024-05-06"
   date_end = "2024-08-16"
 
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "International Conference on Interactive Theorem Proving 2022"
-  url = "https://itpconference.github.io/ITP22/"
-  date_start = "2022-08-07"
-  date_end = "2022-08-10"
-
 +++
