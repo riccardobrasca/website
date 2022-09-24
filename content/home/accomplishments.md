@@ -29,15 +29,6 @@ date_format = "Jan 2, 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "EuroProofNet Workshop on the development, maintenance, refactoring and search of large libraries of proofs "
-  url = "https://europroofnet.github.io/wg4-meeting1-program/"
-  date_start = "2022-09-23"
-  date_end = "2022-09-24"
-
-
-[[item]]
-  organization = ""
-  organization_url = ""
   title = "Conference on Intelligent Computer Mathematics"
   url = "https://cicm-conference.org/2022/cicm.php"
   date_start = "2022-09-19"
