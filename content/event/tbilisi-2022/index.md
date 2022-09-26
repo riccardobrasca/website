@@ -45,7 +45,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: event/luxembourg-2021/pres.pdf
+url_slides: event/tbilisi-2022/pres.pdf
 
 url_code:
 url_pdf:
