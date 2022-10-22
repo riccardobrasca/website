@@ -27,14 +27,6 @@ date_format = "Jan 2, 2006"
   date_end = "2023-05-26"
 
 [[item]]
-  organization = ""
-  organization_url = ""
-  title = "Conference on Intelligent Computer Mathematics"
-  url = "https://cicm-conference.org/2022/cicm.php"
-  date_start = "2022-09-19"
-  date_end = "2022-09-23"
-
-[[item]]
   organization = "Hausdorff Center for Mathematics"
   organization_url = ""
   title = "Prospects of formal mathematics"
