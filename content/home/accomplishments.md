@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Forthcoming events"
-subtitle = ""
+subtitle = "See also [here](https://leanprover-community.github.io/events.html)"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
