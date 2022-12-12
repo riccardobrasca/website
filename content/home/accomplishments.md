@@ -19,6 +19,14 @@ date_format = "Jan 2, 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Università Roma Tre"
+  organization_url = ""
+  title = "Atelier Lean of the seventh mini symposium of the Roman Number Theory Association"
+  url = "http://www.rnta.eu/7MSRNTA/registrationLEAN.html"
+  date_start = "2023-05-02"
+  date_end = "2023-05-03"
+
+[[item]]
   organization = "Banff International Research Station"
   organization_url = ""
   title = "Formalization of Cohomology Theories"
@@ -33,5 +41,13 @@ date_format = "Jan 2, 2006"
   url = "https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/description/"
   date_start = "2024-05-06"
   date_end = "2024-08-16"
+
+[[item]]
+  organization = "Centre international de rencontres mathématiques (CIRM)"
+  organization_url = "https://www.cirm-math.fr/"
+  title = "Lean for the Curious Mathematician 2024"
+  url = ""
+  date_start = "2024-03-25"
+  date_end = "2024-03-29"
 
 +++
