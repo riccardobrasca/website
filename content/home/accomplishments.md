@@ -19,6 +19,14 @@ date_format = "Jan 2, 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "IPAM. Los Angeles"
+  organization_url = ""
+  title = "Machine Assisted Proofs"
+  url = "http://www.ipam.ucla.edu/programs/workshops/machine-assisted-proofs/"
+  date_start = "2023-02-13"
+  date_end = "2023-02-17"
+
+[[item]]
   organization = "Università Roma Tre"
   organization_url = ""
   title = "Atelier Lean of the seventh mini symposium of the Roman Number Theory Association"
