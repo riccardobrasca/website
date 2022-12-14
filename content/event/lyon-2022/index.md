@@ -45,7 +45,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: files/pres.pdf
+url_slides: event/lyon-2022/pres.pdf
 
 url_code: https://github.com/leanprover-community/flt-regular
 url_pdf:

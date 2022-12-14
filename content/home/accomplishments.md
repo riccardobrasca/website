@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Forthcoming events"
-subtitle = ""
+subtitle = "See also [here](https://leanprover-community.github.io/events.html)"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -17,6 +17,22 @@ date_format = "Jan 2, 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  organization = "IPAM. Los Angeles"
+  organization_url = ""
+  title = "Machine Assisted Proofs"
+  url = "http://www.ipam.ucla.edu/programs/workshops/machine-assisted-proofs/"
+  date_start = "2023-02-13"
+  date_end = "2023-02-17"
+
+[[item]]
+  organization = "Università Roma Tre"
+  organization_url = ""
+  title = "Atelier Lean of the seventh mini symposium of the Roman Number Theory Association"
+  url = "http://www.rnta.eu/7MSRNTA/registrationLEAN.html"
+  date_start = "2023-05-02"
+  date_end = "2023-05-03"
 
 [[item]]
   organization = "Banff International Research Station"
@@ -33,5 +49,13 @@ date_format = "Jan 2, 2006"
   url = "https://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/description/"
   date_start = "2024-05-06"
   date_end = "2024-08-16"
+
+[[item]]
+  organization = "Centre international de rencontres mathématiques (CIRM)"
+  organization_url = "https://www.cirm-math.fr/"
+  title = "Lean for the Curious Mathematician 2024"
+  url = ""
+  date_start = "2024-03-25"
+  date_end = "2024-03-29"
 
 +++
