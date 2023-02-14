@@ -43,6 +43,14 @@ date_format = "Jan 2, 2006"
   date_end = "2023-05-26"
 
 [[item]]
+  organization = "Lorentz Center"
+  organization_url = "https://www.lorentzcenter.nl/"
+  title = "Machine-Checked Mathematics"
+  url = "https://www.lorentzcenter.nl/machine-checked-mathematics.html"
+  date_start = "2023-07-10"
+  date_end = "2023-07-14"
+
+[[item]]
   organization = "Hausdorff Center for Mathematics"
   organization_url = ""
   title = "Prospects of formal mathematics"
