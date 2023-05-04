@@ -19,14 +19,6 @@ date_format = "Jan 2, 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Università Roma Tre"
-  organization_url = ""
-  title = "Atelier Lean of the seventh mini symposium of the Roman Number Theory Association"
-  url = "http://www.rnta.eu/7MSRNTA/registrationLEAN.html"
-  date_start = "2023-05-02"
-  date_end = "2023-05-03"
-
-[[item]]
   organization = "Banff International Research Station"
   organization_url = ""
   title = "Formalization of Cohomology Theories"
